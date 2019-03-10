@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EventB",
+    "\\EventB\\tests",
+    "\\EventB\\tests\\AppBundle",
+    "\\EventB\\tests\\AppBundle\\Controller"
+  ],
+  "SelectedNode": "\\EventB\\tests\\AppBundle\\Controller\\DefaultControllerTest.php",
+  "PreviewInSolutionExplorer": false
+}
